@@ -31,8 +31,7 @@ Welcome to my GitHub! I'm a passionate Full Stack Developer and B.Tech Computer 
 
 📫 How to reach me:
 
-- 💼 LinkedIn: https://www.linkedin.com/in/nidhi-mishra-512327243/  
-- 🧩 LeetCode: https://leetcode.com/u/_Nidhi-2004/  
+- 💼 LinkedIn: https://www.linkedin.com/in/nidhi-mishra-512327243/    
 - 📧 Email: mishra2004nidhi@gmail.com  
 
 ⚡ Fun fact: I enjoy optimizing backend logic as much as designing clean frontend interfaces 🚀  
@@ -119,8 +118,7 @@ https://github.com/nidhi829n/WanderLust
 ## 🏆 Achievements  
 
 - Contributor at GirlScript Summer of Code  
-- Mentee at Goldman Sachs and Atlassian  
-- Solved 250+ problems on LeetCode  
+- Mentee at Goldman Sachs and Atlassian    
 - NSS Volunteer  
 
 ---
@@ -129,7 +127,7 @@ https://github.com/nidhi829n/WanderLust
 
 I actively practice Data Structures and Algorithms to strengthen my logical thinking and coding efficiency.
 
-- 250+ problems solved on LeetCode  
+ 
 - Focus on Arrays, Trees, Recursion, and Dynamic Programming  
 
 ---
@@ -137,7 +135,6 @@ I actively practice Data Structures and Algorithms to strengthen my logical thin
 ## 🌐 Connect with Me  
 
 - 💼 LinkedIn: https://www.linkedin.com/in/nidhi-mishra-512327243/  
-- 🧩 LeetCode: https://leetcode.com/u/_Nidhi-2004/  
 - 💬 Open to internships, collaborations, and full stack opportunities  
 
 ---
