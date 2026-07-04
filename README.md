@@ -38,35 +38,60 @@ Welcome to my GitHub! I'm a passionate Full Stack Developer and B.Tech Computer 
 
 ---
 
-## 💻 Technical Skills  
+## 💻 Technical Skills
 
-### 👨‍💻 Languages  
-Java, JavaScript, Python, SQL  
+### 👨‍💻 Languages
 
-### 🎨 Frontend  
-React.js, HTML, CSS, JavaScript  
+Java, JavaScript, SQL
 
-### ⚙ Backend  
-Node.js, Express.js, EJS  
+### 🎨 Frontend
 
-### 🗄 Databases  
-MySQL, MongoDB  
+React.js, Tailwind CSS, HTML5, CSS3
 
-### ☁ DevOps & Platforms  
-Docker, Kubernetes, CI/CD, Git, GitHub, Postman, Render, Vercel  
+### ⚙ Backend
 
-### 🔐 Security & Authentication  
-OAuth2, JWT  
+Node.js, Express.js, REST APIs, EJS
 
-### 🤖 AI & APIs  
-Google Gemini API, OpenAI API  
+### 🗄 Databases
 
-### 🧩 Core Concepts  
-Microservices Architecture, REST APIs, MVC Pattern  
+MongoDB, MySQL
+
+### ☁ Cloud & DevOps
+
+AWS (S3, CloudFront, API Gateway, Lambda, DynamoDB, IAM), GitHub Actions, CI/CD, Git, GitHub, Postman, Render, Vercel
+
+### 🔐 Security & Authentication
+
+JWT, OAuth2, bcrypt
+
+### 🤖 AI & APIs
+
+Google Gemini API, OpenAI API
+
+### 🧩 Core Concepts
+
+Serverless Architecture, REST APIs, MVC Pattern, Microservices 
 
 ---
 
 ## 🚀 Featured Projects  
+
+## ☁ AWS Cloud Resume Challenge
+
+🔗 **GitHub Repository:**  
+https://github.com/nidhi829n/Cloud-Resume-AWS
+
+- Built a serverless cloud portfolio using **React.js**, hosted on **Amazon S3** and delivered globally through **Amazon CloudFront**.
+
+- Developed a real-time visitor counter using **Amazon API Gateway**, **AWS Lambda**, and **Amazon DynamoDB**.
+
+- Configured secure **IAM roles and policies** to enable communication between AWS services following the principle of least privilege.
+
+- Automated deployment using **GitHub Actions CI/CD**, including application build, deployment to Amazon S3, and CloudFront cache invalidation on every push.
+
+- Managed application configuration securely using **GitHub Secrets** and environment variables.
+
+  ---
 
 ### 🧠 SafeHeal – Mental Health Web Application  
 
