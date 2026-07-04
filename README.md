@@ -91,7 +91,7 @@ https://github.com/nidhi829n/Cloud-Resume-AWS
 
 - Managed application configuration securely using **GitHub Secrets** and environment variables.
 
-  ---
+---
 
 ### 🧠 SafeHeal – Mental Health Web Application  
 
