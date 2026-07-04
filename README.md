@@ -1,33 +1,53 @@
-# Hi there, I'm Nidhi Mishra! 👋  
+# Hi there, I'm Nidhi Mishra! 👋
 
-Welcome to my GitHub! I'm a passionate Full Stack Developer and B.Tech Computer Science student who loves building scalable web applications, AI-powered platforms, and solving real-world problems through efficient code. I enjoy working with modern technologies like React, Node.js, MongoDB, and AI integrations.
+Welcome to my GitHub! I'm a **Full Stack Developer** and **B.Tech Computer Science student** passionate about building scalable web applications, cloud-native solutions, and AI-powered applications. I enjoy designing end-to-end systems using modern web technologies, serverless AWS services, and clean backend architectures.
 
 ---
 
-## 🧠 About Me  
+## 🚀 About Me
 
-🔭 I’m currently working on:
+🔭 **I'm currently working on:**
 
-- **SafeHeal – Mental Health Web Application**  
-  A full-stack AI-integrated platform that helps users track emotions and receive AI-powered emotional support using Gemini API.
+- ☁ **AWS Cloud Resume Challenge**
+  - Built a serverless cloud portfolio using **React**, **Amazon S3**, **CloudFront**, **API Gateway**, **AWS Lambda**, **DynamoDB**, and **GitHub Actions CI/CD**.
 
-- **Code Analyst – AI Code Review Platform**  
-  An AI-based code analysis system that reviews source code and provides intelligent feedback using Google Generative AI.
+- 🤖 **Code Analyst – AI Code Review Platform**
+  - A full-stack AI-powered platform that reviews source code and provides intelligent feedback using **Google Gemini AI**.
 
-- Scalable backend systems using MVC architecture and REST APIs  
+- ⚙ Building scalable backend applications using **Node.js**, **Express.js**, **REST APIs**, and **MVC Architecture**.
 
-🌱 I’m currently learning:
+---
 
-- Advanced Backend Architecture & Microservices  
-- System Design Fundamentals  
-- AI Integration in Full Stack Applications  
+## 🌱 Currently Learning
 
-💬 Ask me about:
+- AWS Cloud Services & Serverless Architecture
+- CI/CD Pipelines & DevOps Fundamentals
+- Backend System Design
+- Microservices Architecture
 
-- Java, JavaScript, Python  
-- React.js, Node.js, Express.js  
-- REST APIs & MVC Architecture  
-- Data Structures and Algorithms  
+---
+
+## 💬 Ask Me About
+
+- Java & JavaScript
+- React.js, Node.js & Express.js
+- AWS (S3, CloudFront, Lambda, API Gateway, DynamoDB)
+- REST APIs & Serverless Applications
+- MongoDB & MySQL
+- Git, GitHub & GitHub Actions
+- Data Structures & Algorithms
+
+---
+
+## 🎯 Career Interests
+
+- Full Stack Development
+- Backend Engineering
+- Cloud Computing (AWS)
+- DevOps & CI/CD
+- AI-powered Web Applications
+
+---
 
 📫 How to reach me:
 
