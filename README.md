@@ -1,187 +1,105 @@
-# Hi there, I'm Nidhi Mishra! 👋
+<div align="center">
 
-Welcome to my GitHub! I'm a **Full Stack Developer** and **B.Tech Computer Science student** passionate about building scalable web applications, cloud-native solutions, and AI-powered applications. I enjoy designing end-to-end systems using modern web technologies, serverless AWS services, and clean backend architectures.
+# 👋 Hi, I'm Nidhi Mishra!
 
----
+### **Full Stack Software Engineer | Cloud Computing & DevOps Enthusiast**
 
-## 🚀 About Me
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+</p>
 
-🔭 **I'm currently working on:**
+<p align="center">
+  <a href="https://www.linkedin.com/in/nidhi-mishra-512327243/">💼 <strong>LinkedIn</strong></a> • 
+  <a href="mailto:mishra2004nidhi@gmail.com">📧 <strong>Email Me</strong></a> • 
+  <a href="https://github.com/nidhi829n">🐙 <strong>GitHub</strong></a>
+</p>
 
-- ☁ **AWS Cloud Resume Challenge**
-  - Built a serverless cloud portfolio using **React**, **Amazon S3**, **CloudFront**, **API Gateway**, **AWS Lambda**, **DynamoDB**, and **GitHub Actions CI/CD**.
-
-- 🤖 **Code Analyst – AI Code Review Platform**
-  - A full-stack AI-powered platform that reviews source code and provides intelligent feedback using **Google Gemini AI**.
-
-- ⚙ Building scalable backend applications using **Node.js**, **Express.js**, **REST APIs**, and **MVC Architecture**.
-
----
-
-## 🌱 Currently Learning
-
-- AWS Cloud Services & Serverless Architecture
-- CI/CD Pipelines & DevOps Fundamentals
-- Backend System Design
-- Microservices Architecture
+</div>
 
 ---
 
-## 💬 Ask Me About
+## 💡 About Me
 
-- Java & JavaScript
-- React.js, Node.js & Express.js
-- AWS (S3, CloudFront, Lambda, API Gateway, DynamoDB)
-- REST APIs & Serverless Applications
-- MongoDB & MySQL
-- Git, GitHub & GitHub Actions
-- Data Structures & Algorithms
+I am a **B.Tech Computer Science student** and passionate software developer specializing in building resilient full-stack applications, scalable backend microservices, and serverless cloud architectures. I focus heavily on writing clean, production-ready code fortified with automated CI/CD pipelines, enterprise security layers, and modern AI integrations.
 
 ---
 
-## 🎯 Career Interests
+## 🛠️ Technical Arsenal
 
-- Full Stack Development
-- Backend Engineering
-- Cloud Computing (AWS)
-- DevOps & CI/CD
-- AI-powered Web Applications
-
----
-
-📫 How to reach me:
-
-- 💼 LinkedIn: https://www.linkedin.com/in/nidhi-mishra-512327243/    
-- 📧 Email: mishra2004nidhi@gmail.com  
-
-⚡ Fun fact: I enjoy optimizing backend logic as much as designing clean frontend interfaces 🚀  
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Languages & Scripting** | Java, JavaScript (ES6+), SQL, HTML5, CSS3 |
+| **Frontend Ecosystem** | React.js, Vite, Tailwind CSS, Redux, Responsive UI/UX |
+| **Backend Architecture** | Node.js, Express.js, RESTful APIs, MVC Pattern, Zod Validation, Async Error Handlers |
+| **Databases & Caching** | MongoDB Atlas, Mongoose ODM, MySQL |
+| **Cloud Computing & DevOps** | AWS (S3, CloudFront, API Gateway, Lambda, DynamoDB, IAM), GitHub Actions, CI/CD, Render, Vercel, Git |
+| **Security & Logging** | JWT, OAuth2, bcrypt, Helmet.js, Express Rate Limiter, Winston, Morgan |
+| **AI Integrations** | Google Gemini API, OpenAI API |
 
 ---
 
-## 💻 Technical Skills
+## 🚀 Featured Enterprise Projects
 
-### 👨‍💻 Languages
+### 🤖 1. CodeAnalyst – AI Code Review & Intelligence Platform
+🔗 **Repository:** [github.com/nidhi829n/Code-Analyst](https://github.com/nidhi829n/Code-Analyst) | **Live Demo:** [code-analyst.vercel.app](https://code-analyst.vercel.app)
+* **Overview:** A production-ready full-stack SaaS platform designed to automate code quality audits, vulnerability detection, and refactoring using Google Gemini AI.
+* **Backend & Security:** Engineered a robust Node.js/Express backend protected by **Helmet**, layer-7 **Rate Limiting**, **Zod** schema validation, and centralized error handling middleware.
+* **Observability & DevOps:** Implemented enterprise logging architecture via **Winston** and **Morgan** alongside automated CI/CD workflows using **GitHub Actions**, with zero-downtime deployments on Vercel and Render.
 
-Java, JavaScript, SQL
+### ☁️ 2. AWS Cloud Resume Challenge
+🔗 **Repository:** [github.com/nidhi829n/Cloud-Resume-AWS](https://github.com/nidhi829n/Cloud-Resume-AWS)
+* **Overview:** Built and deployed a fully serverless cloud-native portfolio.
+* **Architecture:** Hosted a React static frontend on **Amazon S3** globally accelerated via **Amazon CloudFront**. Designed a serverless visitor counter backend using **Amazon API Gateway**, **AWS Lambda**, and **Amazon DynamoDB**.
+* **Automation:** Configured automated infrastructure updates and cache invalidations using **GitHub Actions CI/CD** adhering strictly to the principle of least privilege via custom **IAM policies**.
 
-### 🎨 Frontend
+### 🧠 3. SafeHeal – Mental Health & Wellness Web Application
+🔗 **Repository:** [github.com/nidhi829n/SafeHeal](https://github.com/nidhi829n/SafeHeal)
+* **Overview:** Developed an interactive web platform for mood tracking, guided self-reflection, and supportive mental health management.
+* **Tech Stack:** React.js, Node.js, Express.js, and MongoDB Atlas.
+* **Key Features:** Secure JWT authentication, RESTful routing, persistent history logs, and integration with generative AI for tailored emotional insights.
 
-React.js, Tailwind CSS, HTML5, CSS3
-
-### ⚙ Backend
-
-Node.js, Express.js, REST APIs, EJS
-
-### 🗄 Databases
-
-MongoDB, MySQL
-
-### ☁ Cloud & DevOps
-
-AWS (S3, CloudFront, API Gateway, Lambda, DynamoDB, IAM), GitHub Actions, CI/CD, Git, GitHub, Postman, Render, Vercel
-
-### 🔐 Security & Authentication
-
-JWT, OAuth2, bcrypt
-
-### 🤖 AI & APIs
-
-Google Gemini API, OpenAI API
-
-### 🧩 Core Concepts
-
-Serverless Architecture, REST APIs, MVC Pattern, Microservices 
+### 🌍 4. Wanderlust – Travel Booking & Listing Platform
+🔗 **Repository:** [github.com/nidhi829n/WanderLust](https://github.com/nidhi829n/WanderLust)
+* **Overview:** A full-stack web application allowing users to explore, book, and manage unique travel locations worldwide.
+* **Tech Stack:** Node.js, Express.js, MongoDB Atlas, Mapbox API, Cloudinary.
+* **Key Features:** Role-based authorization, dynamic mapping location rendering, multi-media asset uploads, and MVC architecture.
 
 ---
 
-## 🚀 Featured Projects  
+## 💼 Experience & Leadership
 
-## ☁ AWS Cloud Resume Challenge
+### 🔹 Database Developer | Moon (Startup)
+* Designed, structured, and optimized core MongoDB document schemas for a high-traffic e-commerce platform.
+* Tuned aggregation pipelines and queries to drastically improve database lookup speeds and platform scalability.
+* Ensured reliable end-to-end backend integration and clean data serialization flows.
 
-🔗 **GitHub Repository:**  
-https://github.com/nidhi829n/Cloud-Resume-AWS
-
-- Built a serverless cloud portfolio using **React.js**, hosted on **Amazon S3** and delivered globally through **Amazon CloudFront**.
-
-- Developed a real-time visitor counter using **Amazon API Gateway**, **AWS Lambda**, and **Amazon DynamoDB**.
-
-- Configured secure **IAM roles and policies** to enable communication between AWS services following the principle of least privilege.
-
-- Automated deployment using **GitHub Actions CI/CD**, including application build, deployment to Amazon S3, and CloudFront cache invalidation on every push.
-
-- Managed application configuration securely using **GitHub Secrets** and environment variables.
+### 🌟 Community & Honors
+* **Contributor:** GirlScript Summer of Code (GSSoC)
+* **Mentee Programs:** Goldman Sachs & Atlassian Mentorship Initiatives
+* **Community Service:** Active National Service Scheme (NSS) Volunteer
 
 ---
 
-### 🧠 SafeHeal – Mental Health Web Application  
+## 📈 GitHub Stats & Activity
 
-🔗 **GitHub Repository:**  
-https://github.com/nidhi829n/SafeHeal  
-
-- Built using React.js, Node.js, Express.js, and MongoDB  
-- Implemented secure authentication & RESTful APIs  
-- Integrated Gemini API for AI-powered emotional support  
-- Used MongoDB Atlas for persistent storage  
-- Designed responsive UI for enhanced engagement  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nidhi829n&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Nidhi's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidhi829n&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+</p>
 
 ---
 
-### 🤖 Code Analyst – AI Code Review Platform  
+## 🌐 Connect & Collaborate
 
-🔗 **GitHub Repository:**  
-https://github.com/nidhi829n/Code-Analyst  
+* 💼 **LinkedIn:** [Nidhi Mishra](https://www.linkedin.com/in/nidhi-mishra-512327243/)
+* 📧 **Email:** mishra2004nidhi@gmail.com
+* 🐙 **GitHub:** [@nidhi829n](https://github.com/nidhi829n)
 
-- AI-powered code review system using Google Generative AI  
-- RESTful backend with dedicated AI endpoint  
-- Real-time frontend interaction using Axios  
-
----
-
-### 🌍 Wanderlust – Travel Booking Platform  
-
-🔗 **GitHub Repository:**  
-https://github.com/nidhi829n/WanderLust  
-
-- Built using Node.js, Express.js, MongoDB Atlas  
-- Implemented authentication & role-based authorization  
-- Integrated Cloudinary for media uploads  
-- Integrated Mapbox for interactive maps  
-- Deployed on Render with scalable cloud database  
-
----
-
-## 💼 Experience  
-
-### Database Developer – Moon (Startup)
-
-- Designed and implemented MongoDB schema for an e-commerce platform  
-- Optimized queries for improved performance and scalability  
-- Ensured reliable backend integration and structured data flow  
-
----
-
-## 🏆 Achievements  
-
-- Contributor at GirlScript Summer of Code  
-- Mentee at Goldman Sachs and Atlassian    
-- NSS Volunteer  
-
----
-
-## 🧩 Problem Solving  
-
-I actively practice Data Structures and Algorithms to strengthen my logical thinking and coding efficiency.
-
- 
-- Focus on Arrays, Trees, Recursion, and Dynamic Programming  
-
----
-
-## 🌐 Connect with Me  
-
-- 💼 LinkedIn: https://www.linkedin.com/in/nidhi-mishra-512327243/  
-- 💬 Open to internships, collaborations, and full stack opportunities  
-
----
-
-⭐ **"Discipline in learning. Precision in coding. Excellence in building."**
+> *"Discipline in learning. Precision in coding. Excellence in building."* 🚀
