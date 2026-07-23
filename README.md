@@ -89,15 +89,6 @@ I am a **B.Tech Computer Science student** and passionate software developer spe
 
 ---
 
-## 📈 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nidhi829n&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Nidhi's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidhi829n&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
-</p>
-
----
-
 ## 🌐 Connect & Collaborate
 
 * 💼 **LinkedIn:** [Nidhi Mishra](https://www.linkedin.com/in/nidhi-mishra-512327243/)
