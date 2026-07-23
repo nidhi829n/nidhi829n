@@ -77,8 +77,11 @@ I am a **B.Tech Computer Science student** and passionate software developer spe
 
 ### 🔹 Backend Developer | Moon (Startup)
 • Built REST APIs using Node.js, Express.js, and MongoDB for an AI-powered mental health platform.
+
 • Implemented authentication using JWT, bcrypt, and Google OAuth.
+
 • Integrated the Google Gemini API for AI-powered mental health assistance.
+
 • Developed modular backend components using Mongoose, controllers, and middleware
 
 ### 🌟 Community & Honors
