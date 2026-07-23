@@ -75,12 +75,14 @@ I am a **B.Tech Computer Science student** and passionate software developer spe
 
 ## 💼 Experience & Leadership
 
-### 🔹 Database Developer | Moon (Startup)
-* Designed, structured, and optimized core MongoDB document schemas for a high-traffic e-commerce platform.
-* Tuned aggregation pipelines and queries to drastically improve database lookup speeds and platform scalability.
-* Ensured reliable end-to-end backend integration and clean data serialization flows.
+### 🔹 Backend Developer | Moon (Startup)
+• Built REST APIs using Node.js, Express.js, and MongoDB for an AI-powered mental health platform.
+• Implemented authentication using JWT, bcrypt, and Google OAuth.
+• Integrated the Google Gemini API for AI-powered mental health assistance.
+• Developed modular backend components using Mongoose, controllers, and middleware
 
 ### 🌟 Community & Honors
+* **Selected:** for the interview round of HackwithInfy'26
 * **Contributor:** GirlScript Summer of Code (GSSoC)
 * **Mentee Programs:** Goldman Sachs & Atlassian Mentorship Initiatives
 * **Community Service:** Active National Service Scheme (NSS) Volunteer
